@@ -1,0 +1,5 @@
+name: EndExit
+version: 1.0
+main: dev.xac.endportal.Endportal
+authors: [ Xac ]
+description: End Exit Water
